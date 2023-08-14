@@ -1,0 +1,5 @@
+C:\Users\ajay-winX\a_src\github\geektrust-metrocard-csharp\GeekTrust\obj\Debug\netcoreapp3.1\GeekTrust.csproj.AssemblyReference.cache
+C:\Users\ajay-winX\a_src\github\geektrust-metrocard-csharp\GeekTrust\obj\Debug\netcoreapp3.1\GeekTrust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajay-winX\a_src\github\geektrust-metrocard-csharp\GeekTrust\obj\Debug\netcoreapp3.1\GeekTrust.AssemblyInfoInputs.cache
+C:\Users\ajay-winX\a_src\github\geektrust-metrocard-csharp\GeekTrust\obj\Debug\netcoreapp3.1\GeekTrust.AssemblyInfo.cs
+C:\Users\ajay-winX\a_src\github\geektrust-metrocard-csharp\GeekTrust\obj\Debug\netcoreapp3.1\GeekTrust.csproj.CoreCompileInputs.cache
