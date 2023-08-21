@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust\\GeekTrust.csproj": {}
+    "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust\\GeekTrust.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust\\GeekTrust.csproj": {
+    "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust\\GeekTrust.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust\\GeekTrust.csproj",
+        "projectUniqueName": "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust\\GeekTrust.csproj",
         "projectName": "geektrust",
-        "projectPath": "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust\\GeekTrust.csproj",
+        "projectPath": "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust\\GeekTrust.csproj",
         "packagesPath": "C:\\Users\\ajay-winX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust\\obj\\",
+        "outputPath": "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajay-winX\\AppData\\Roaming\\NuGet\\NuGet.Config"

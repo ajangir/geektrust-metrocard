@@ -4761,11 +4761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust.Tests\\GeekTrustTests.csproj",
+      "projectUniqueName": "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust.Tests\\GeekTrustTests.csproj",
       "projectName": "GeekTrustTests",
-      "projectPath": "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust.Tests\\GeekTrustTests.csproj",
+      "projectPath": "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust.Tests\\GeekTrustTests.csproj",
       "packagesPath": "C:\\Users\\ajay-winX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust.Tests\\obj\\",
+      "outputPath": "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajay-winX\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4780,8 +4780,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust\\GeekTrust.csproj": {
-              "projectPath": "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust\\GeekTrust.csproj"
+            "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust\\GeekTrust.csproj": {
+              "projectPath": "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust\\GeekTrust.csproj"
             }
           }
         }

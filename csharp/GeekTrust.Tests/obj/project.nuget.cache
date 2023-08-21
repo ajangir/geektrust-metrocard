@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "69OVrWt4V3VwXJykiyvfJpdsE0dcCl1HK2rvlaPGkS1kbOlj592IW6URwEhV8gU6qbPn5Opq0PWLmYvq+Te3DA==",
+  "dgSpecHash": "/9TRwL546Byd9plilHDA9zce2OH6+0e/4mM0OHbYs8ycTiIFrghVg0AUQ4AEbGt3pIYddBETxN0yzEQibo2S1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard-csharp\\GeekTrust.Tests\\GeekTrustTests.csproj",
+  "projectFilePath": "c:\\Users\\ajay-winX\\a_src\\github\\geektrust-metrocard\\csharp\\GeekTrust.Tests\\GeekTrustTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ajay-winX\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\ajay-winX\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
